@@ -87,8 +87,16 @@ The scripts listed below show supplementary information such as input data and s
 | Num. | Subject                                                      | Analysis                                                     | Visualization                                                |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 5.1  | [Global number of lanes](./5_suplimentary_information/5.1_global_number_of_lanes/) | Not applicable                                               | [Figure.ipynb](./5_suplimentary_information/5.1_global_number_of_lanes/Figure.ipynb) |
-| 5.2  | [Monthly mean temperature at FR-Capitole](./5_suplimentary_information/5.2_FR-Capitole_monthly_temperatures/) | Using [Export.ipynb](./5_suplimentary_information/5.2_FR-Capitole_monthly_temperatures/Export.ipynb) to get monthly mean temperatures | [Figure.ipynb](./5_suplimentary_information/5.2_FR-Capitole_monthly_temperatures/Figure.ipynb) |
-| 5.3  | [Monthly mean temperature at UK-Manchester](./5_suplimentary_information/5.3_UK-Manchester_monthly_temperatures/) | Using [Export.ipynb](./5_suplimentary_information/5.3_UK-Manchester_monthly_temperatures/Export.ipynb) to get monthly mean temperatures | [Figure.ipynb](./5_suplimentary_information/5.3_UK-Manchester_monthly_temperatures/Figure.ipynb) |
+| 5.2  | [Monthly mean temperature at FR-Capitole](./5_suplimentary_information/5.2_FR-Capitole_monthly_temperatures/) | Use [Export.ipynb](./5_suplimentary_information/5.2_FR-Capitole_monthly_temperatures/Export.ipynb) to get monthly mean temperatures | [Figure.ipynb](./5_suplimentary_information/5.2_FR-Capitole_monthly_temperatures/Figure.ipynb) |
+| 5.3  | [Monthly mean temperature at UK-Manchester](./5_suplimentary_information/5.3_UK-Manchester_monthly_temperatures/) | Use [Export.ipynb](./5_suplimentary_information/5.3_UK-Manchester_monthly_temperatures/Export.ipynb) to get monthly mean temperatures | [Figure.ipynb](./5_suplimentary_information/5.3_UK-Manchester_monthly_temperatures/Figure.ipynb) |
 | 5.4  | [Anthropoegnic_heat_at_UK-Manchester](./5_suplimentary_information/5.4_UK-Manchester_ahf) | Use [Export.ipynb](./5_suplimentary_information/5.4_UK-Manchester_ahf/Export.ipynb) to get 7-day mean and hourly mean variables related to AHF | [Figure.ipynb](./5_suplimentary_information/5.4_UK-Manchester_ahf/Figure.ipynb) |
 | 5.5  | [Monthly mean AHF](./5_suplimentary_information/5.5_monthly_mean_ahf) | Use [Export.ipynb](./5_suplimentary_information/5.5_monthly_mean_ahf/Export.ipynb) to get the monthly mean AHF | [Figure.ipynb](./5_suplimentary_information/5.5_monthly_mean_ahf/Figure.ipynb) |
 
+## Acknowledgements
+
+- This work used the [ARCHER2 UK National Supercomputing Service](https://www.archer2.ac.uk) and [JASMIN, the UK’s collaborative data analysis environment](https://www.jasmin.ac.uk). 
+- This work was supported by the U.K. Natural Environment Research Council.
+- We gratefully acknowledge Transport for Greater Manchester (TfGM) for providing traffic data to support this research.
+- [Zhonghua Zheng](https://github.com/zhonghua-zheng) appreciates the support provided by the academic start-up funds from the Department of Earth and Environmental Sciences at The University of Manchester. 
+- [Yuan Sun](https://github.com/YuanSun-UoM) is supported by Zhonghua Zheng's academic start-up funds.
+- Contributions from [Keith W. Oleson](https://staff.ucar.edu/users/oleson) are based upon work supported by the NSF National Center for Atmospheric Research, which is a major facility sponsored by the U.S. National Science Foundation under Cooperative Agreement No. 1852977.
