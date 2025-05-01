@@ -60,7 +60,7 @@ The scripts listed below are used for processing CNTL and TRAF simulation output
 
 | Num. | Subject                                                      | Output data process                                          | Visualization                                                |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 3.3  | [Model_validation_at_FR-Capitole](./3_simulation_output_analysis/3.3_FR-Capitole_model_validation/) | Use [Export.ipynb](./3_simulation_output_analysis/2.3_FR-Capitole_model_validation/Export.ipynb) to get 7-day mean and hourly mean variables in comparison with observations | [Figure.ipynb](./3_simulation_output_analysis/3.3_FR-Capitole_model_validation/Figure.ipynb) |
+| 3.3  | [Model_validation_at_FR-Capitole](./3_simulation_output_analysis/3.3_FR-Capitole_model_validation/) | Use [Export.ipynb](./3_simulation_output_analysis/3.3_FR-Capitole_model_validation/Export.ipynb) to get 7-day mean and hourly mean variables in comparison with observations | [Figure.ipynb](./3_simulation_output_analysis/3.3_FR-Capitole_model_validation/Figure.ipynb) |
 | 3.4  | [Anthropoegnic_heat_at_FR-Capitole](./3_simulation_output_analysis/3.4_FR-Capitole_ahf) | Use [Export.ipynb](./3_simulation_output_analysis/3.4_FR-Capitole_ahf/Export.ipynb) to get 7-day mean and hourly mean variables related to AHF | [Figure.ipynb](./3_simulation_output_analysis/3.4_FR-Capitole_ahf/Figure.ipynb) |
 | 3.5  | [Model_validation_at_UK-Manchester](./3_simulation_output_analysis/3.5_UK-Manchester_model_validation/) | Use [Export.ipynb](./3_simulation_output_analysis/3.5_UK-Manchester_model_validation/Export.ipynb) to get 7-day mean and hourly mean variables in comparison with observations | [Figure.ipynb](./3_simulation_output_analysis/3.5_UK-Manchester_model_validation/Figure.ipynb) |
 | 3.6  | [Heat_stress_at_UK-Manchester](./3_simulation_output_analysis/3.6_UK-Manchester_heat_stress/) | Use [Export.ipynb](./3_simulation_output_analysis/3.6_UK-Manchester_heat_stress/Export.ipynb) to get heat stress indices | [Figure.ipynb](./3_simulation_output_analysis/3.6_UK-Manchester_heat_stress/Figure.ipynb) |
@@ -80,6 +80,15 @@ The figures listed below are used to illustrate the details of the model workflo
 | Traffic-induced changes in heat flux and temperatures at UK-Manchester | [Figure]()    |
 | Community Land Model                                         | [Figure]()    |
 
+### [5_sumplimentary_information](./5_sumplimentary_information)
 
+The scripts listed below show supplementary information such as input data, and simulation results.
 
-### 5_sumplimentary_materials
+| Num. | Subject                                                      | Analysis                                                     | Visualization                                                |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 5.1  | [Global number of lanes](./5_suplimentary_information/5.1_global_number_of_lanes/) | Not applicable                                               | [Figure.ipynb](./5_sumplimentary_information/5.1_global_number_of_lanes/Figure.ipynb) |
+| 5.2  | [Monthly mean temperature at FR-Capitole](./5_suplimentary_information/5.2_FR-Capitole_monthly_temperatures/) | Using [Export.ipynb](./5_suplimentary_information/5.2_FR-Capitole_monthly_temperatures/Export.ipynb) to get monthly mean temperatures | [Figure.ipynb](./5_sumplimentary_information/5.2_FR-Capitole_monthly_temperatures/Figure.ipynb) |
+| 5.3  | [Monthly mean temperature at UK-Manchester](./5_suplimentary_information/5.3_UK-Manchester_monthly_temperatures/) | Using [Export.ipynb](./5_sumplimentary_information/5.3_UK-Manchester_monthly_temperatures/Export.ipynb) to get monthly mean temperatures | [Figure.ipynb](./5_sumplimentary_information/5.3_UK-Manchester_monthly_temperatures/Figure.ipynb) |
+| 5.4  | [Anthropoegnic_heat_at_UK-Manchester](./5_suplimentary_information/5.4_UK-Manchester_ahf) | Use [Export.ipynb](./5_suplimentary_information/5.4_UK-Manchester_ahf/Export.ipynb) to get 7-day mean and hourly mean variables related to AHF | [Figure.ipynb](./5_suplimentary_information/5.4_UK-Manchester_ahf/Figure.ipynb) |
+| 5.5  | [Monthly mean AHF](./5_suplimentary_information/5.5_monthly_mean_ahf) | Use [Export.ipynb](./5_suplimentary_information/5.5_monthly_mean_ahf/Export.ipynb) to get the monthly mean AHF | [Figure.ipynb](./5_suplimentary_information/5.5_monthly_mean_ahf/Figure.ipynb) |
+
