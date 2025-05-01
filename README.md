@@ -82,7 +82,7 @@ The figures listed below are used to illustrate the details of the model workflo
 
 ### [5_suplimentary_information](./5_suplimentary_information)
 
-The scripts listed below show supplementary information such as input data, and simulation results.
+The scripts listed below show supplementary information such as input data and simulation results.
 
 | Num. | Subject                                                      | Analysis                                                     | Visualization                                                |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
