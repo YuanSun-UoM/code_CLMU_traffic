@@ -56,7 +56,7 @@ The scripts listed below are used to visualize two sites with corresponding traf
 | 3.1  | [Metadata at FR-Capitole](./3_simulation_output_analysis/3.1_FR-Capitole_metadata) | Use [Export.ipynb](./3_simulation_output_analysis/3.1_FR-Capitole_metadata/Export.ipynb) to get the diurnal mean vehicle volume | [Figure.ipynb](./3_simulation_output_analysis/3.1_FR-Capitole_metadata/Figure.ipynb) |
 | 3.2  | [Metadata_at_UK-Manchester](./3_simulation_output_analysis/3.2_UK-Manchester_metadata) | Use [Export.ipynb](/3_simulation_output_analysis/3.2_UK-Manchester_metadata/Export.ipynb) to get the diurnal mean vehicle volume | [Figure.ipynb](./3_simulation_output_analysis/3.2_UK-Manchester_metadata/Figure.ipynb) |
 
-The scripts listed below are used for processing CNTL and TRAF simulation output and visualization.
+The scripts listed below are used for processing CNTL (`urban_traffic=.false.`) and TRAF (`urban_traffic=.true.`) simulation output and visualization.
 
 | Num. | Subject                                                      | Output data process                                          | Visualization                                                |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
