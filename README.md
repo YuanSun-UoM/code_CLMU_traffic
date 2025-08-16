@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository is supplementary to the manuscript "Sun, Y., Oleson, K. W., & Zheng, Z. (2025). Modeling urban traffic flux in Community Earth System Model".
+This repository is supplementary to the manuscript "Sun, Y., Oleson, K. W., & Zheng, Z. (2025). Modeling urban traffic heat flux in Community Earth System Model".
 
 The objectives of this project are:
 
